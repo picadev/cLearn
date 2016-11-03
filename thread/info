@@ -1,0 +1,3 @@
+complie use 
+
+gcc *.c -o  *  -lpthread
